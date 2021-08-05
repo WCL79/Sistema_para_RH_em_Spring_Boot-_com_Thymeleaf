@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: demo-mvc
+Bundle-SymbolicName: demo-mvc
+Bundle-Version: 1.0.0.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Automatic-Module-Name: demo.mvc
+Export-Package: com.wcl.portifolio.boot,
+ com.wcl.portifolio.boot.dao,
+ com.wcl.portifolio.boot.domain,
+ com.wcl.portifolio.boot.service,
+ com.wcl.portifolio.boot.web.controller
